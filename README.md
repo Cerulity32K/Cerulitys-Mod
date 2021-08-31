@@ -6,6 +6,6 @@ Launching Gunpowder: Right click to consume and launch forward.
 Launching Gunpowder Block: Right click to launch forward.
 # Mixins
 Block:
-  Beehive/Bee Nest: Spawns 200 bees when broken.
+  Beehive/Bee Nest: Spawns 200 bees when broken. They have infinite strength. Be careful ;)
   
   TNT: Spawns normal TNT when broken.
